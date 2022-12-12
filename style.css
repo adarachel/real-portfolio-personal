@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rochester&display=swap');
+
+@media (max-width: 480px) {
+h5 {
+    font-family: 'Rochester', cursive;
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 1em;
+    margin-top: 1em;
+    color: yellow;
+   }
+}
